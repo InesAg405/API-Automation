@@ -22,5 +22,5 @@ conftest.py - fixtures
 2. pytest
 Purpose
 Showcases skills in API testing, automation, and Python scripting.
-Author
+## Author
 Ines Agrebi - Telecommunications Engineer | QA & Test Automation
