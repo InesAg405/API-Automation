@@ -1,0 +1,4 @@
+[
+  {"email": "eve.holt@reqres.in", "password": "cityslicka", "expected_status": 201},
+  {"email": "wrong@test.com", "password": "", "expected_status": 201}
+]
